@@ -1168,7 +1168,7 @@ document.addEventListener("DOMContentLoaded", function () {
     { name: "unit Produksi", image: "upsekolah.jpg" },
     { name: "Pos Penjagaan", image: "pospenjagaan.jpg" },
     { name: "Aula", image: "aula.jpg" },
-    { name: "Asrama Guru & Siswa", image: "bagiandepansekolah.jpg" },
+    { name: "Asrama Guru & Siswa", image: "gerbangdepan.jpg" },
   ];
 
   // Student data (sample)
