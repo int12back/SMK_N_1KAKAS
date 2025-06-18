@@ -1161,14 +1161,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Facilities data (sample images)
   const facilitiesData = [
-    { name: "Laboratorium Komputer", image: "lab-komputer.jpg" },
-    { name: "Perpustakaan", image: "perpustakaan.jpg" },
-    { name: "Laboratorium Bahasa", image: "lab-bahasa.jpg" },
-    { name: "Ruang Kelas", image: "ruang-kelas.jpg" },
-    { name: "Lapangan Olahraga", image: "lapangan-olahraga.jpg" },
-    { name: "Kantin", image: "kantin.jpg" },
+    { name: "Lapangan Sekolah", image: "lapangansekolahdepan.jpg" },
+    { name: "Perpustakaan", image: "fotoperpustakaan.jpg" },
+    { name: "Ruang Guru", image: "ruangguru.jpg" },
+    { name: "Ruang Kelas", image: "ruangkelas.jpg" },
+    { name: "unit Produksi", image: "upsekolah.jpg" },
+    { name: "Pos Penjagaan", image: "pospenjagaan.jpg" },
     { name: "Aula", image: "aula.jpg" },
-    { name: "Green House", image: "green-house.jpg" },
+    { name: "Asrama Guru & Siswa", image: "bagiandepansekolah.jpg" },
   ];
 
   // Student data (sample)
